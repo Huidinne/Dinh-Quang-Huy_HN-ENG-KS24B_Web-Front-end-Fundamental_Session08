@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.form{
+    height: 300px;
+    width: 520px;
+    background-color: #50455f;
+}
+form{
+    margin-left: 10px;
+}
+input{
+    width: 220px;
+    height: 30px;
+    border-radius: 2px;
+    margin-top: 10px;
+    border: 1px solid #796e85;
+    background-color: #50455f;
+}
+textarea{
+    border: 1px solid #796e85;
+    background-color: #50455f;
+    height: 100px;
+    width: 470px;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+label{
+    font-size: 10px;
+    font-weight: bold;
+}
+td{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    color: #50455f;
+    border-radius: 10px;
+    border: #50455f;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
